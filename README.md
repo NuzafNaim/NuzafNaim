@@ -1,6 +1,6 @@
-![Web Developer & Graphics Designer](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/83378951_173122630830719_5485355171659961811_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFbfZaaAGczSz-OY2CwikdCHTyrG2Xwq5cdPKsbZfCrl5OKqV_ar4XeBXKE8BA8pOraSEr8ZLAbj05cM5cataEv&_nc_ohc=FhCZu-9h0qEAX-p9IVu&_nc_ht=scontent.fdac27-1.fna&oh=a3e766fbd8f689fe7e92664ff152c3a3&oe=61837C8C)
+![Web Developer & Graphics Designer](https://i.imgur.com/JBytyWc.jpg)
 
-### Hi there 👋, I’m K M Nuzaf Naim Saikat
+### Hi , I’m K M Nuzaf Naim Saikat
 #### Web Developer & Graphics Designer
 
 I am passionate about UI/UX design and Web Design. I am a skilled front-end developer and master of graphic design tools such as Photoshop and Sketch. I am a quick learner and a team worker that gets the job done. I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
