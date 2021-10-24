@@ -3,7 +3,9 @@
 ### Hi , I’m K M Nuzaf Naim Saikat
 #### Web Developer & Graphics Designer
 
-I am passionate about UI/UX design and Web Design. I am a skilled front-end developer and master of graphic design tools such as Photoshop and Sketch. I am a quick learner and a team worker that gets the job done. I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
+I'm a Creative Designer and UI/UX Designer from Dhaka, Bangladesh, working in web development and print media. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
 Skills: HTML / CSS / Java Script / Java / C++ / Python / PHP / C
 
