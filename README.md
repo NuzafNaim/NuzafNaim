@@ -1,4 +1,4 @@
-![Web Developer & Graphics Designer](https://i.imgur.com/JBytyWc.jpg)
+![Web Developer & Graphics Designer](https://i.imgur.com/97aheDZ.jpg)
 
 ### Hi , I’m K M Nuzaf Naim Saikat
 #### Web Developer & Graphics Designer
@@ -7,10 +7,10 @@ I'm a Creative Designer and UI/UX Designer from Dhaka, Bangladesh, working in we
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
-Skills: HTML / CSS / Java Script / Java / C++ / Python / PHP / C
+Skills: HTML / CSS / Tailwind CSS / Java Script / Java / C++ / Python / PHP / C 
 
 - 🔭 I’m currently working on YouTube 
-- 🌱 I’m currently learning Python / C / C++ / Java 
+- 🌱 I’m currently learning Python / React / Next.Js / Java 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
